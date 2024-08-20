@@ -1,0 +1,29 @@
+{
+  "name": "ma3bcf2000",
+  "version": "1.0.8",
+  "description": "none",
+  "main": "ma3bcf2000.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtGateOne/ma3bcf2000.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "ArtGateOne",
+  "license": "ISC",
+  "dependencies": {
+    "@julusian/midi": "^3.6.1",
+    "easymidi": "^3.1.0",
+    "jzz": "^1.8.5",
+    "osc": "^2.4.4",
+    "osc-js": "^2.4.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3",
+    "typescript": "^5.5.4"
+  }
+}
